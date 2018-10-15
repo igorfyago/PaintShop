@@ -15,4 +15,4 @@
 
 > python PaintShop.py ./test/input_3.txt
 
-> python PaintShop.py ./test/expected_messy_formatting.txt
+> python PaintShop.py ./test/input_messy_formatting.txt
