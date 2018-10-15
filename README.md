@@ -20,7 +20,7 @@
 > python PaintShop.py ./test/input_messy_formatting.txt
 
 
-3. Run all predefined samples (this is the default run-mode if inside an IDE):
+3. Run all predefined samples (this is the default run-mode if launching from an IDE):
 
 > python PaintShop.py
 
