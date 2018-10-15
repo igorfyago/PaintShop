@@ -4,6 +4,7 @@
 
 > python TestPaintshop.py
 
+
 2. How to Run:
 
 > python PaintShop.py ./test/input_0.txt
