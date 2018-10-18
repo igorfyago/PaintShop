@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14053ccd-ba99-479b-a8d5-762f1f927546" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parser/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parser/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/expected_messy_formatting.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/expected_messy_formatting.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/input_messy_formatting.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/input_messy_formatting.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,21 +59,42 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitattributes" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="md" value="1" />
+          <entry key="py" value="5" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="604" />
+          <entry key="txt" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Python" value="604" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Paintshop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,6 +153,10 @@
         <option value="$PROJECT_DIR$/src/Paintshop.py" />
         <option value="$PROJECT_DIR$/Paintshop.py" />
         <option value="$PROJECT_DIR$/TestPaintshop.py" />
+        <option value="$PROJECT_DIR$/src/Parser/__init__.py" />
+        <option value="$PROJECT_DIR$/src/Solver/__init__.py" />
+        <option value="$PROJECT_DIR$/test/input_messy_formatting.txt" />
+        <option value="$PROJECT_DIR$/test/expected_messy_formatting.txt" />
       </list>
     </option>
   </component>
@@ -161,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,13 +204,24 @@
             <path>
               <item name="PaintShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="PaintShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PaintShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PaintShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Solver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PaintShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PaintShop" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,15 +328,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_TestPaintshop_py - 2018.10.15 at 02h 38m 46s.xml">
-      <configuration name="pytest in TestPaintshop.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_TestPaintshop_py - 2018.10.15 at 09h 12m 35s.xml">
-      <configuration name="pytest in TestPaintshop.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_TestPaintshop_py - 2018.10.15 at 14h 19m 26s.xml">
-      <configuration name="pytest in TestPaintshop.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_TestPaintshop_py - 2018.10.15 at 14h 41m 19s.xml">
       <configuration name="pytest in TestPaintshop.py" configurationId="tests" />
     </history-entry>
@@ -319,6 +349,15 @@
     <history-entry file="pytest_in_TestPaintshop_py - 2018.10.15 at 15h 46m 44s.xml">
       <configuration name="pytest in TestPaintshop.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_TestPaintshop_py - 2018.10.19 at 00h 42m 05s.xml">
+      <configuration name="pytest in TestPaintshop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_TestPaintshop_py - 2018.10.19 at 00h 43m 06s.xml">
+      <configuration name="pytest in TestPaintshop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_TestPaintshop_py - 2018.10.19 at 00h 43m 18s.xml">
+      <configuration name="pytest in TestPaintshop.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -331,14 +370,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.12822208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.16721745" />
       <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.24983476" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" weight="0.35744682" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" visible="true" weight="0.35744682" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -386,52 +424,45 @@
     <entry file="file://$PROJECT_DIR$/paintshop/tests/input_01" />
     <entry file="file://$PROJECT_DIR$/paintshop/tests/input_99" />
     <entry file="file://$PROJECT_DIR$/paintshop/classes/Customer.py" />
+    <entry file="file://$PROJECT_DIR$/paintshop/tests/input.txt" />
+    <entry file="file://$PROJECT_DIR$/dev/codedev.py" />
+    <entry file="file://$PROJECT_DIR$/dev/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/test/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/test/expected_3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/input_3.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/paintshop/tests/input.txt" />
-    <entry file="file://$PROJECT_DIR$/test/input_messy_formatting.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/expected_messy_formatting.txt">
+    <entry file="file://$PROJECT_DIR$/TestPaintshop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="918">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/codedev.py" />
-    <entry file="file://$PROJECT_DIR$/dev/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/test/input_0.txt">
+    <entry file="file://$PROJECT_DIR$/Paintshop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/input_1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/input_2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/src/Solver/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="235">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -444,22 +475,48 @@
     <entry file="file://$PROJECT_DIR$/test/expected_2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/expected_3.txt">
+    <entry file="file://$PROJECT_DIR$/test/input_2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestPaintshop.py">
+    <entry file="file://$PROJECT_DIR$/test/input_1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/input_0.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="54" column="12" lean-forward="true" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paintshop.py">
+    <entry file="file://$PROJECT_DIR$/test/expected_messy_formatting.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/input_messy_formatting.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parser/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1539906181976" expanded="true" signature="35:36" ph="..." />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
